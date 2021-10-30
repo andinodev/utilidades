@@ -31,4 +31,5 @@
 `ng g c pages/about` > ng generate component direccion
 
 `ng g m appRouting` > generar modulo nombre (como ejemplo vamos a hacerlo para crear las rutas de la app).
+
 `FLAG: --dry-run (para no generar cambios, es solo para ver que genera el comando)`
