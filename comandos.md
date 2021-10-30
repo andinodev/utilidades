@@ -37,3 +37,4 @@ FLAGS:
 
 + `--flat` (para crear el archivo dentro de donde se llama el comando)
 
++ `--routing` (genera un archivo de rutas, se utiliza con ng g m)
