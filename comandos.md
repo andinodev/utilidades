@@ -21,3 +21,11 @@
 `ionic start nombreApp template`  template: para generar una app con plantilla predefinida
 
 `ionic serve --lab` --lab para mostrar la app en device
+
+***
+
+### ANGULAR
+
+`ng serve -o` servidor
+
+`ng g c pages/about` > ng generate component direccion/ (--dry-run para no generar cambios)
