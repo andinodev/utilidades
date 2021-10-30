@@ -24,7 +24,7 @@
 
 ***
 
-### ANGULAR
+## ANGULAR
 
 `ng serve -o` servidor
 
@@ -32,9 +32,14 @@
 
 `ng g m appRouting` > generar modulo nombre (como ejemplo vamos a hacerlo para crear las rutas de la app).
 
-FLAGS:
+`ng g s services/data` > genera servicio para conectar con todos los componenetes de la app (como ejemplo creamos el servicio que nos trae data de alguna api).
+
+
+####FLAGS:
 + `--dry-run` (Para no generar cambios, es solo para ver que genera el comando)
 
 + `--flat` (para crear el archivo dentro de donde se llama el comando)
 
 + `--routing` (genera un archivo de rutas, se utiliza con ng g m)
+
++ `--spec=false` (no generar archivo de test)
