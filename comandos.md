@@ -18,4 +18,5 @@
 ## IONIC
 
 `ionic start nombreApp template `  template: para generar una app con plantilla predefinida
+
 `ionic serve --lab ` --lab para mostrar la app en device
