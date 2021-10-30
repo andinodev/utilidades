@@ -42,4 +42,4 @@
 
 + `--routing` (genera un archivo de rutas, se utiliza con ng g m)
 
-+ `--skipTests` (no generar archivo de test)
++ `--skipTests o --skip-test o --spec=false` (no generar archivo de test)
