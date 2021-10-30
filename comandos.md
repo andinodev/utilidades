@@ -32,4 +32,8 @@
 
 `ng g m appRouting` > generar modulo nombre (como ejemplo vamos a hacerlo para crear las rutas de la app).
 
-`FLAG: --dry-run (para no generar cambios, es solo para ver que genera el comando)`
+FLAGS:
++ `--dry-run` (Para no generar cambios, es solo para ver que genera el comando)
+
++ `--flat` (para crear el archivo dentro de donde se llama el comando)
+
